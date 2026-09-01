@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raghav-0808/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3110-score-of-a-string](https://github.com/raghav-0808/leetcode/tree/master/3110-score-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
