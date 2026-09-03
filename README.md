@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/raghav-0808/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raghav-0808/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raghav-0808/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raghav-0808/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/raghav-0808/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/raghav-0808/leetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
