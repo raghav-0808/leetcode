@@ -24,6 +24,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raghav-0808/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raghav-0808/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghav-0808/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/raghav-0808/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raghav-0808/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3903-smallest-stable-index-i](https://github.com/raghav-0808/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
 | ------- |
