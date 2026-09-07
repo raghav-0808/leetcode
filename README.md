@@ -11,6 +11,7 @@
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/raghav-0808/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/raghav-0808/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/raghav-0808/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghav-0808/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Pigeonhole Principle
 |  |
