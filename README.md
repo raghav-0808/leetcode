@@ -26,6 +26,7 @@
 | ------- |
 | [0414-third-maximum-number](https://github.com/raghav-0808/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raghav-0808/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0739-daily-temperatures](https://github.com/raghav-0808/leetcode/tree/master/0739-daily-temperatures) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raghav-0808/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raghav-0808/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/raghav-0808/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -64,4 +65,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghav-0808/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/raghav-0808/leetcode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/raghav-0808/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
