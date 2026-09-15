@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raghav-0808/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghav-0808/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raghav-0808/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/raghav-0808/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -27,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raghav-0808/leetcode/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/raghav-0808/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/raghav-0808/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raghav-0808/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
