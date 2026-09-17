@@ -15,6 +15,7 @@
 | [0070-climbing-stairs](https://github.com/raghav-0808/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/raghav-0808/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/raghav-0808/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/raghav-0808/leetcode/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/raghav-0808/leetcode/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/raghav-0808/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/raghav-0808/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/raghav-0808/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/raghav-0808/leetcode/tree/master/0342-power-of-four) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/raghav-0808/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -116,4 +118,5 @@
 | ------- |
 | [0231-power-of-two](https://github.com/raghav-0808/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/raghav-0808/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/raghav-0808/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
