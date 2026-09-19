@@ -35,6 +35,7 @@
 | [0001-two-sum](https://github.com/raghav-0808/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raghav-0808/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/raghav-0808/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/raghav-0808/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0238-product-of-array-except-self](https://github.com/raghav-0808/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/raghav-0808/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raghav-0808/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/raghav-0808/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/raghav-0808/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/raghav-0808/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Bit Manipulation
 |  |
@@ -130,4 +132,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/raghav-0808/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/raghav-0808/leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
