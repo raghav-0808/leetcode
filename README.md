@@ -58,6 +58,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/raghav-0808/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raghav-0808/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3110-score-of-a-string](https://github.com/raghav-0808/leetcode/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/raghav-0808/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0054-spiral-matrix](https://github.com/raghav-0808/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/raghav-0808/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/raghav-0808/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3498-reverse-degree-of-a-string](https://github.com/raghav-0808/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
