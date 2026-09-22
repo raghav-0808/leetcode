@@ -44,6 +44,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raghav-0808/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raghav-0808/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/raghav-0808/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2942-find-words-containing-character](https://github.com/raghav-0808/leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/raghav-0808/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghav-0808/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/raghav-0808/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -58,6 +59,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghav-0808/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/raghav-0808/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raghav-0808/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2942-find-words-containing-character](https://github.com/raghav-0808/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/raghav-0808/leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/raghav-0808/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
