@@ -35,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/raghav-0808/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raghav-0808/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/raghav-0808/leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/raghav-0808/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/raghav-0808/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0238-product-of-array-except-self](https://github.com/raghav-0808/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghav-0808/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/raghav-0808/leetcode/tree/master/0046-permutations) |
 ## Stack
 |  |
 | ------- |
