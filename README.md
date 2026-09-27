@@ -65,6 +65,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghav-0808/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0771-jewels-and-stones](https://github.com/raghav-0808/leetcode/tree/master/0771-jewels-and-stones) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav-0808/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/raghav-0808/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raghav-0808/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/raghav-0808/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/raghav-0808/leetcode/tree/master/0739-daily-temperatures) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav-0808/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -150,4 +152,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/raghav-0808/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/raghav-0808/leetcode/tree/master/0059-spiral-matrix-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav-0808/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
