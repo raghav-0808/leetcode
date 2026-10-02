@@ -66,6 +66,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghav-0808/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/raghav-0808/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/raghav-0808/leetcode/tree/master/0022-generate-parentheses) |
 | [0771-jewels-and-stones](https://github.com/raghav-0808/leetcode/tree/master/0771-jewels-and-stones) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav-0808/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raghav-0808/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghav-0808/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/raghav-0808/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/raghav-0808/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/raghav-0808/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raghav-0808/leetcode/tree/master/0090-subsets-ii) |
@@ -131,6 +133,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raghav-0808/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/raghav-0808/leetcode/tree/master/0070-climbing-stairs) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/raghav-0808/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
@@ -164,6 +167,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raghav-0808/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/raghav-0808/leetcode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav-0808/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raghav-0808/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
