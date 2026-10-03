@@ -4,7 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
-| [0001-two-sum](https://github.com/raghav-0808/leetcode/tree/master/0001-two-sum) |
+| [0001-two-summ](https://github.com/raghav-0808/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghav-0808/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raghav-0808/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/raghav-0808/leetcode/tree/master/0771-jewels-and-stones) |
