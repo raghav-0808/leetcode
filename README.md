@@ -14,6 +14,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/raghav-0808/leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/raghav-0808/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/raghav-0808/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/raghav-0808/leetcode/tree/master/0326-power-of-three) |
