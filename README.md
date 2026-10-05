@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-summ](https://github.com/raghav-0808/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/raghav-0808/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghav-0808/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raghav-0808/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/raghav-0808/leetcode/tree/master/0771-jewels-and-stones) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/raghav-0808/leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/raghav-0808/leetcode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/raghav-0808/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/raghav-0808/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/raghav-0808/leetcode/tree/master/0326-power-of-three) |
@@ -65,6 +67,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/raghav-0808/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghav-0808/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/raghav-0808/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/raghav-0808/leetcode/tree/master/0022-generate-parentheses) |
