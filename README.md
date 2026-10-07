@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raghav-0808/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/raghav-0808/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raghav-0808/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/raghav-0808/leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/raghav-0808/leetcode/tree/master/0054-spiral-matrix) |
@@ -62,6 +63,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raghav-0808/leetcode/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raghav-0808/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/raghav-0808/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raghav-0808/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -178,4 +180,8 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raghav-0808/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav-0808/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raghav-0808/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/raghav-0808/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
